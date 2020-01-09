@@ -49,7 +49,7 @@ shims-vue.d.ts, shims-tsx.d.ts 이 친구들은 뭐하는 파일일까? 검색�
 
 ## 직접 코딩하기 전에… TypeScript 기초 알아보기
 
-typescript의 이름답게 <strong>type/strong>이 필수적으로 필요하다
+typescript의 이름답게 <strong>type</strong>이 필수적으로 필요하다
 
 javascript와의 아마 가장 중요하고 가장 큰 차이점이지 않을까
 
